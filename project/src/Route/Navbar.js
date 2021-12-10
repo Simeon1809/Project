@@ -52,7 +52,7 @@ import {FaBars} from 'react-icons/fa'
                     const {id,url, icon} = media;
                     return(
                       <li key={id}>
-                      <a href={url} />
+                      <a href={url}>{icon}</a>
                       </li>
                     )
                   })}
