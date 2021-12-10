@@ -1,0 +1,1 @@
+# This project is a website built using React Functional components, the website uses React-Hookes to manage the state of the various objects and Rect-Router to manage the various component changes that may be required when the need arises to move from one component to another.
