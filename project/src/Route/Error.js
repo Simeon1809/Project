@@ -3,7 +3,7 @@ import React from "react";
 function Error(){
     return (
         <div className="error">
-        <h1>Error Page....</h1>
+        <h1>The Required link does not exist </h1>
         </ div>
     )
 } 
