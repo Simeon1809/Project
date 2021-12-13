@@ -14,10 +14,7 @@ function Contact(){
 
               
                 <h3 class="text-secondary"><FaPhone />  +2349012471558</h3>
-         
-                 <hr />
-                 <hr />
-
+        
                   <hr />
                   <hr />
             
