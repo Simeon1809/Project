@@ -7,7 +7,6 @@ const Projects = () => {
             <h1>Projects Component</h1>
         </div>
         </section>
-     
     )
 }
 
