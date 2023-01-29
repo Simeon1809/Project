@@ -17,18 +17,14 @@ function Contact(){
         
                   <hr />
                   <hr />
-            
                    <h3 class="text-secondary">< FaEnvelope/>   simeondigital@gmail.com</h3>
                
                   <hr />
                   <hr />
-            
-      
                 <h3 class="text-secondary"><FaGithub /> https://github.com/Simeon1809 </h3>
 
             <hr />
             <hr />
-      
                 <h3 class="text-secondary"><FaLinkedin/> https://linkedin.com/in/simeon-ayara-801597b8 </h3>
                 
             <hr />
